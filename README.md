@@ -59,7 +59,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Imani
 
-
+![wednesday morning gif from giphy](https://media.giphy.com/media/xkmNi280NkrcY/giphy.gif)
 
 ### James
 
