@@ -47,7 +47,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Corey
 
-
+![wednesday morning gif from giphy](https://media.giphy.com/media/p8Uw3hzdAE2dO/giphy.gif)
 
 ### David
 
