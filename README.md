@@ -50,7 +50,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### David
-
+![Finish the fight gif from giphy](https://media.giphy.com/media/xiEUIhXadorPr9tait/giphy-downsized.gif)
 
 
 ### Eli
