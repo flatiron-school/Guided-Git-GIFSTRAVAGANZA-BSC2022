@@ -35,7 +35,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Connor
 
-
+![gif of tired tom from giphy](https://media.giphy.com/media/RTIGQQZwkGy9q/giphy-downsized.gif)
 
 ### Cooper M
 
