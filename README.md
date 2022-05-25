@@ -82,7 +82,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Reese
-![Wednesday Gif Assignment](https://giphy.com/gifs/everyone-destiny-sharing-2IjkMXG36oG4w)
+![Wednesday Gif Assignment](https://media.giphy.com/media/2IjkMXG36oG4w/giphy.gif)
 
 
 ### Rew
