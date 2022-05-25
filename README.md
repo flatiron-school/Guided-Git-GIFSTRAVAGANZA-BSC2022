@@ -42,7 +42,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Cooper T
-
+![The magic hand](https://media.giphy.com/media/pKW2KMWBu8ZAy00lss/giphy.gif)
 
 
 ### Corey
