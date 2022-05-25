@@ -75,7 +75,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Phil
 
-
+![This is fine gif from giphy](https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif)
 
 ### Reed
 
