@@ -91,4 +91,5 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Tom
 
+![Day 3 Conclusion Gif from GIPHY](https://media.giphy.com/media/5PiIuCHlkQ58Y/giphy.gif)
 
