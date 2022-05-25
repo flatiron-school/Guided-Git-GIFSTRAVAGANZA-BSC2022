@@ -19,7 +19,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Lindsey
 
-![wednesday morning gif from giphy](https://media.giphy.com/media/wdgX1eCnUd8ZzWIMi4/giphy-downsized.gif)
+![only wednesday gif from giphy](https://media.giphy.com/media/LklLiNITxXFcU0vm0Z/giphy.gif)
 
 ### Mark
 
