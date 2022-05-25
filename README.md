@@ -62,7 +62,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### James
-
+![Im data science-ing from Giphy](https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy-downsized.gif)
 
 
 ### John
