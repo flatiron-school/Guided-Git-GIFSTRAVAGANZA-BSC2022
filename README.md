@@ -71,7 +71,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Litzy
 
-![](https://media.giphy.com/media/8szve9QiAu0qePmtLE/giphy-downsized.gif)
+![Yay Wednesday!](https://media.giphy.com/media/8szve9QiAu0qePmtLE/giphy-downsized.gif)
 
 ### Phil
 
