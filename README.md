@@ -31,7 +31,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Bryan
 
-
+![Wednesday gif from giphy](https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif)
 
 ### Connor
 
