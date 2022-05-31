@@ -82,7 +82,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ![oh yeah](https://media.giphy.com/media/aTx5OMKR7FCGQ/giphy.gif)
 
 ### Reese
-
+![Wednesday Gif Assignment](https://media.giphy.com/media/2IjkMXG36oG4w/giphy.gif)
 
 
 ### Rew
