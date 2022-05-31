@@ -39,7 +39,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Cooper M
 
-
+![Sleepy Duck](https://media.giphy.com/media/z2Sectp9SiC88/giphy.gif)
 
 ### Cooper T
 ![The magic hand](https://media.giphy.com/media/pKW2KMWBu8ZAy00lss/giphy.gif)
